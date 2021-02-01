@@ -1,0 +1,4 @@
+.vscode
+vgcore*
+*.o
+sudoku
